@@ -2,7 +2,7 @@ import Experience from "@/components/Experience";
 
 export default function Home() {
     return (
-        <main className="bg-[#181818] w-screen h-screen">
+        <main className="bg-lime-300 w-screen h-screen">
             <Overlay />
             <Experience />
         </main>
